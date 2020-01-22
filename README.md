@@ -28,7 +28,7 @@ you can download the apk file and try it from here [Demo](https://drive.google.c
 
 ### Running on android studio
   ```
-	$ git clone https://github.com/seif1000/Task-Manger-React-Hooks.git
+	$ git clone https://github.com/seif1000/salati.git
   
   
 	```
